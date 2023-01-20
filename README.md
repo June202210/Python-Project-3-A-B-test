@@ -4,3 +4,4 @@ https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv
 
 This A/B test is designed to determine whether the company should change the 'Start Now' button 
 from orange to pink on the homepage. 
+If the change will attract more user traffic, the new webpage will be launched to all users.
